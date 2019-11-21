@@ -1,0 +1,26 @@
+
+body{
+    background-image:
+    linear-gradient(to bottom, rgba(245, 246, 252, 0.25), rgba(0, 0, 0, 0.79)),
+    url("../img/IMG_0166.JPG");
+    background-size: cover;
+    
+        color: white;
+        font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    font-size:56px;
+
+}
+
+a{
+  color:  white;
+}
+a:visited{
+    color:red;  
+}
+.portrait{
+    width: 20%;
+    height: 20%;
+}
